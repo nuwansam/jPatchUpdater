@@ -1,4 +1,4 @@
-package org.lysty.updater;
+package org.jpatchupdater.core;
 
 import java.io.File;
 import java.io.FileInputStream;
